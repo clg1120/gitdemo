@@ -4,4 +4,4 @@ Hello git!
 Hello git!
 Hello git!
 Hello github!
-Hello git!
+Hello hot-fix!
